@@ -6,6 +6,11 @@ Third Choice: 3a
 Fourth Choice: 4a
 <<<<<<< HEAD
 Fifth Choice: 3b
+<<<<<<< HEAD
 =======
 Fifth Choice: 5a
 >>>>>>> choice7
+=======
+Sixth Choice: 4d
+Seventh Choice: 5c
+>>>>>>> choice9
