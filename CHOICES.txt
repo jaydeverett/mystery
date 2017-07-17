@@ -5,3 +5,6 @@ Second Choice: 2a
 Third Choice: 3a
 Fourth Choice: 4a
 Fifth Choice: 3b
+Sixth Choice: 4d
+Seventh Choice: 3c
+Eighth Choice: 5d
