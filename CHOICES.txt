@@ -4,8 +4,7 @@ First Choice: 1a
 Second Choice: 2a
 Third Choice: 3a
 Fourth Choice: 4a
-<<<<<<< HEAD
-Fifth Choice: 3b
-=======
+Fifth Choice: 5c
 Fifth Choice: 5a
->>>>>>> choice7
+
+
