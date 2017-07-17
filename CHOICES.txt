@@ -5,6 +5,7 @@ Second Choice: 2a
 Third Choice: 3a
 Fourth Choice: 4a
 <<<<<<< HEAD
+<<<<<<< HEAD
 Fifth Choice: 3b
 <<<<<<< HEAD
 =======
@@ -14,3 +15,6 @@ Fifth Choice: 5a
 Sixth Choice: 4d
 Seventh Choice: 5c
 >>>>>>> choice9
+=======
+Fifth Choice: 5b
+>>>>>>> choice6
